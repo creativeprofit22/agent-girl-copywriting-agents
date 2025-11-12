@@ -1,415 +1,428 @@
-# Agent Girl Copywriting Agents Integration Kit
+# Agent Girl Copywriting Agents
 
-**Complete Integration Package for 8 Production-Ready AI Copywriting Agents**
+Stop reading like a Vegas dealer shuffles cards.
 
-> The story of how I built, tested, and safely integrated 8 custom AI copywriting agents into Agent Girl—and how you can do it too.
+This is the copywriting agent system that writes like a human, thinks like a psychologist, and positions like Sabri Suby on espresso.
 
----
+Not another AI wrapper that spits out corporate slop.
 
-## 🎯 What You Get
+Not another "content tool" that makes you sound like a LinkedIn bot having an identity crisis.
 
-This repository contains everything you need to integrate 8 professional copywriting agents into your own Agent Girl installation:
+This is 8 specialized agents that produce copy so authentic, your audience will think you hired a ghostwriter who actually gets them.
 
-✅ **8 Production-Ready Agents**
-- copy-orchestrator (Master workflow router)
-- copy-research (Source validation, 0-100 reliability scoring)
-- copy-persona (Psychographic audience profiling)
-- copy-analysis (Master copywriter technique extraction)
-- copy-headlines (9 psychological triggers applied)
-- copy-social (4 master copywriter styles + quality gates)
-- copy-video (3-second hook engineering for short-form video)
-- copy-review (7-checklist quality assurance)
 
-✅ **Complete Knowledge Base**
-- 9 Psychological triggers framework with real examples
-- 7-point quality checklists for evaluation
-- Master copywriter playbooks (Chief Neefe, Gary Halbert, Dan Kennedy, Sabri Suby)
-- Psychological frameworks and trigger library
+## What This Is (And Why You Should Care)
 
-✅ **Real Working Examples**
-- Social copy examples with quality scores (9/10)
-- Hook/headline variations with trigger breakdowns
-- TikTok/Reels video scripts with timecode visuals
-- Before/after integration examples
+Most AI copywriting tools are a joke.
 
-✅ **Complete Integration Tutorial**
-- Step-by-step setup instructions
-- Safe installation using Minimal Claude (terminal-based approach)
-- Triple backup strategy for zero-risk integration
-- Testing procedures and quality validation
-- Rollback procedures if needed
+They give you the same recycled garbage everyone else is posting.
 
-✅ **Presentation Materials**
-- GLM-ready presentation slides (25 slides)
-- Integration journey narrative
-- Real integration examples and quality metrics
+They sound like a TED Talk had a baby with a motivational poster.
 
----
+They produce "content" that gets scroll fatigue in 0.3 seconds.
 
-## 🚀 Quick Start (5 minutes)
+This system is different.
 
-### **Step 1: Read the Integration Story**
-Start with `INTEGRATION_STORY.md` to understand the complete journey and why this approach works.
+It's built on master copywriter frameworks from Sabri Suby, Dan Kennedy, Gary Halbert, and Chief Neefe.
 
-### **Step 2: Review an Agent**
-Open `agents/copy-orchestrator.md` to see a real agent structure and understand how they work.
+It understands psychological triggers like a therapist understands childhood trauma.
 
-### **Step 3: Follow the Installation Guide**
-Go to `INSTALLATION.md` for complete step-by-step integration instructions.
+It writes variations that actually test differently because they use fundamentally different persuasion architectures.
 
-### **Step 4: Test Before Adding All Agents**
-Follow `TESTING_PROCEDURES.md` to validate one agent before adding all 8.
+Think of it like having Gordon Ramsay's entire kitchen brigade working on your social media.
 
----
+Except instead of risotto, they're crafting hooks that stop thumbs mid scroll.
 
-## 📁 Repository Structure
+
+## The 8 Agents (Your New Strike Team)
+
+**Master Orchestrator**: Routes briefs like a 911 dispatcher on Red Bull. Asks the right questions when you give half baked inputs.
+
+**Research Agent**: Crawls the web for swipe files and validates sources. No hallucinations. No "trust me bro" references.
+
+**Persona Research Agent**: Builds audience profiles so detailed you'll feel like you're reading their therapy notes. Pain points, aspirations, exact language they use, terminology that makes them cringe.
+
+**Copywriter Analysis Agent**: Extracts techniques from master copywriters. Breaks down why Sabri's positioning crush works. Why Dan Kennedy's deadline scarcity terrorizes procrastinators. Why Gary Halbert's story hooks feel like talking to an old friend.
+
+**Headlines & Hooks Specialist**: Generates psychology based hooks using 9 core triggers. Curiosity, specificity, identity, contrast, relevance, scarcity, authority, emotion, pattern interrupt. Calibrated by intensity. No conflicts.
+
+**Social Media Copy Writer**: Writes 3 to 5 variations of native ads and organic posts. Each variation uses a different master framework. Chief Neefe contrast loops. Gary Halbert story hooks. Dan Kennedy problem agitation solution stacks. Sabri Suby leverage positioning.
+
+**Video Script Writer**: Short form scripts for TikTok, Reels, YouTube Shorts. First 3 seconds stop the scroll or you're dead. Pattern interrupts that force attention. Emotional arcs that build to action.
+
+**Quality Review Agent**: Self evaluates against 4 quality gates before you ever see the copy. Authenticity score. Psychological trigger alignment. Persona match. Variation distinctiveness. If it doesn't pass, it doesn't ship.
+
+
+## What You Actually Get
+
+Copy that doesn't sound like AI wrote it.
+
+No excessive dashes pretending to be dramatic pauses.
+
+No corporate buzzwords like "leverage synergies" or "revolutionize your workflow."
+
+Contractions that feel natural.
+
+Sentence variety that sounds like a real human talking.
+
+Specific examples and numbers that build credibility.
+
+Personality and voice that matches your brand.
+
+Passive voice under 10 percent because we're not writing a research paper.
+
+
+## The Knowledge Base (Your Unfair Advantage)
+
+**Copywriter Technique Playbooks**: Sabri Suby's leverage positioning. Dan Kennedy's hard deadline scarcity. Gary Halbert's benefit focused storytelling. Chief Neefe's contrast loops and agitation through repetition. Extracted, analyzed, templated.
+
+**Psychological Frameworks**: 9 core triggers with intensity scales, conflict matrices, copy type recommendations. You'll know exactly which triggers work for organic posts versus native ads versus video scripts. You'll know which combinations feel manipulative and which feel persuasive.
+
+**Quality Checklists**: 10 comprehensive evaluation frameworks. Authenticity tests. Trigger alignment scoring. Persona match verification. Variation distinctiveness checks. The same gates the Quality Review Agent uses.
+
+**Swipe Files**: Curated examples from real campaigns. Social media ads that crushed. Sales pages that converted. Video scripts that went viral. Organized by trigger type and copy structure.
+
+
+## Why This Matters (The Real Problem)
+
+You've probably noticed that most "AI generated content" gets ignored.
+
+There's a reason for that.
+
+It's because AI tools write for algorithms, not humans.
+
+They optimize for keywords, not psychology.
+
+They produce volume, not impact.
+
+The result?
+
+You post 5 times a day and get engagement from bots and your mom.
+
+You run ads that get impressions but zero clicks.
+
+You write scripts that people scroll past in 0.8 seconds.
+
+Meanwhile, the people who understand persuasion psychology are crushing it with half the output.
+
+They write less.
+
+They test smarter.
+
+They use frameworks that have worked for 40 years because human psychology hasn't changed.
+
+This agent system gives you those frameworks.
+
+Not watered down.
+
+Not "inspired by."
+
+The actual techniques, extracted and executable.
+
+
+## How To Use It (Stupidly Simple)
+
+This system is built for the Minimal Claude approach.
+
+That means you can run it in Claude Desktop, Claude API, or any environment that supports Claude Sonnet 4.5.
+
+No complex setup.
+
+No 47 step installation process.
+
+No Docker containers pretending to be necessary.
+
+Here's the flow:
+
+**Step 1**: Submit a brief. Product, audience, goal. Can be detailed or rough. The Orchestrator will ask follow up questions if needed.
+
+**Step 2**: Research agents run in parallel. Web research for swipe files. Persona research for audience insights. Copywriter analysis for technique matching.
+
+**Step 3**: Headlines and hooks get generated. Psychology based. Trigger calibrated. Ready to test.
+
+**Step 4**: Copy writers produce 3 to 5 variations. Each uses a different master framework. Each could perform differently in real world testing because the underlying persuasion architecture is fundamentally different.
+
+**Step 5**: Quality Review Agent evaluates everything. Scores each variation against 4 quality gates. Flags anything that fails. You only see copy that passes.
+
+**Step 6**: You review, pick winners, provide feedback. The system learns for next time.
+
+
+## The Tech (For People Who Care)
+
+8 specialized agents.
+
+Each has a distinct system prompt, knowledge base access, and quality checklist.
+
+All outputs are versioned in Git.
+
+If an agent breaks or produces bad copy, you can revert to a stable version in 30 seconds.
+
+No starting over from scratch.
+
+No "we lost everything" disasters.
+
+The knowledge base is modular.
+
+You can add new copywriter techniques.
+
+You can update psychological frameworks.
+
+You can expand swipe files.
+
+Everything is markdown.
+
+Everything is readable.
+
+Everything is forkable.
+
+
+## Who Built This And Why
+
+This was built as a contribution to Agent Girl, the agent framework created by Ken Kai.
+
+Agent Girl makes building AI agents stupidly simple.
+
+No frameworks.
+
+No orchestration layers.
+
+Just markdown prompts, knowledge bases, and Claude doing what Claude does best.
+
+This copywriting agent system is our way of giving back to that community.
+
+We believe the best tools get built when people share what works.
+
+We believe open source wins when quality rises for everyone.
+
+We believe you shouldn't have to pay $297 per month for AI copy that sounds like a robot wrote it during a firmware update.
+
+So here it is.
+
+8 agents.
+
+Complete knowledge base.
+
+Master copywriter frameworks.
+
+Psychological trigger library.
+
+Quality checklists.
+
+All open.
+
+All forkable.
+
+All ready to use.
+
+
+## What's Ready Right Now
+
+All 8 agent prompts built and tested.
+
+Complete knowledge base with 4 master copywriter playbooks.
+
+Psychological frameworks covering 9 core triggers with intensity scales and conflict matrices.
+
+Quality checklists for all 4 evaluation gates.
+
+Repository structure with Git versioning.
+
+Documentation for system architecture and data flow.
+
+Everything you need to run this today.
+
+
+## What's Next (Let's Build This Together)
+
+We're in Phase 4 now.
+
+That means testing with real briefs.
+
+Running 10, 20, 50 copy requests through the system.
+
+Collecting feedback on what works and what doesn't.
+
+Identifying patterns in performance across different audiences and offers.
+
+Refining agent prompts based on real world results.
+
+Building the feedback loop so the system learns from every brief.
+
+You can help.
+
+Clone this repo.
+
+Test it with your copy briefs.
+
+Break it.
+
+Find edge cases.
+
+Contribute improvements.
+
+Share what works.
+
+The system gets better when more people use it and report back.
+
+That's how open source works.
+
+That's how we build tools that actually solve real problems instead of generating hype decks for VC pitch meetings.
+
+
+## How To Get Started
+
+**Step 1**: Clone this repo.
+
+```bash
+git clone https://github.com/yourusername/agent-girl-copywriting-agents.git
+```
+
+**Step 2**: Review the agent prompts in the `/agents/` directory. Each agent has a complete system prompt with instructions, quality gates, and output formats.
+
+**Step 3**: Check out the knowledge base in `/knowledge-base/`. Read the copywriter technique playbooks. Study the psychological frameworks. Review the quality checklists.
+
+**Step 4**: Set up your Claude environment. This works with Claude Desktop, Claude API, or any Minimal Claude setup. Just point the agents at their prompts and knowledge bases.
+
+**Step 5**: Run a test brief. Start simple. Product description, target audience, goal. Let the Orchestrator route the workflow.
+
+**Step 6**: Review the output. Score the variations. Provide feedback. See what the Quality Review Agent caught and what it missed.
+
+**Step 7**: Iterate. Test with different briefs. Different audiences. Different offers. Find the patterns.
+
+**Step 8**: Contribute back. Open issues. Submit pull requests. Share what worked. Help make this better for everyone.
+
+
+## The Repository Structure
 
 ```
-├── README.md                          (You are here)
-├── INTEGRATION_STORY.md               (Complete journey documentation)
-├── INSTALLATION.md                    (Step-by-step integration guide)
-├── TESTING_PROCEDURES.md              (Quality assurance and validation)
-├── ROLLBACK_PROCEDURES.md             (Recovery guide if needed)
-│
-├── presentation/
-│   ├── GLM_PRESENTATION_SOURCE.md     (25 slides in markdown)
-│   ├── GLM_PRESENTATION.pdf           (Beautiful rendered slides)
-│   └── README.md                      (Presentation usage guide)
-│
-├── agents/                            (8 copywriting agents)
-│   ├── copy-orchestrator.md           (Master router and coordinator)
-│   ├── copy-research.md               (Source validation, 0-100 scoring)
-│   ├── copy-persona.md                (Audience psychographic profiling)
-│   ├── copy-analysis.md               (Copywriter technique breakdown)
-│   ├── copy-headlines.md              (9 psychological triggers)
-│   ├── copy-social.md                 (4 styles + 4 quality gates)
-│   ├── copy-video.md                  (3-second hook engineering)
-│   └── copy-review.md                 (7-checklist quality review)
+copywriting-agents/
+├── agents/                          # 8 specialized agent prompts
+│   ├── orchestrator.md
+│   ├── research.md
+│   ├── persona-research.md
+│   ├── copywriter-analysis.md
+│   ├── headlines-hooks.md
+│   ├── social-copy-writer.md
+│   ├── video-script-writer.md
+│   └── quality-review.md
 │
 ├── knowledge-base/
-│   ├── psychological-frameworks.md    (9 triggers detailed)
-│   ├── quality-checklists.md          (7-point evaluation framework)
-│   ├── copywriter-techniques/
-│   │   ├── chief-neefe-playbook.md
-│   │   ├── gary-halbert-playbook.md
-│   │   ├── dan-kennedy-playbook.md
-│   │   └── sabri-suby-playbook.md
-│   └── glossary.md                    (Terms and definitions)
+│   ├── copywriter-techniques/       # Master playbooks
+│   │   ├── sabri-suby.md
+│   │   ├── dan-kennedy.md
+│   │   ├── gary-halbert.md
+│   │   └── chief-neefe-playbook.md
+│   ├── swipe-files/                 # Curated examples
+│   ├── quality-checklists.md
+│   └── psychological-frameworks.md
 │
-├── examples/
-│   ├── example-social-copy.md         (Real Chief Neefe example)
-│   ├── example-video-script.md        (TikTok/Reels script)
-│   ├── example-hooks.md               (5 hook variations)
-│   └── quality-examples.md            (Before/after quality comparison)
-│
-├── customization/
-│   ├── CUSTOMIZATION_GUIDE.md         (How to modify agents)
-│   ├── ADDING_NEW_AGENTS.md           (Pattern for new agents)
-│   └── STYLING_GUIDE.md               (Output format customization)
-│
-└── CONTRIBUTING.md                    (Community guidelines)
+├── research-outputs/                # Organized by brief ID
+├── copy-outputs/                    # Versioned copy variations
+├── config/
+└── README.md                        # You are here
 ```
 
----
 
-## 🔑 Key Features
+## Quality Standards (Non Negotiable)
 
-### **Production Quality**
-- Maintains 9.1+/10 quality score throughout integration
-- 7-point quality checklists built into agents
-- Quality gates prevent low-quality outputs
-- Pre-integration and post-integration testing
+No AI sounding language.
 
-### **Zero-Risk Integration**
-- Triple backup strategy ensures 30-second recovery
-- Minimal Claude (terminal-based) approach prevents UI accidents
-- Reversible installation—rollback in minutes if needed
-- Clear before/after state tracking
+No excessive dashes pretending to be thoughtful pauses.
 
-### **Master Copywriter Techniques**
-- Chief Neefe: Contrast framework and strategic positioning
-- Gary Halbert: Personal story hooks and specificity
-- Dan Kennedy: Numbers-driven authority and scarcity
-- Sabri Suby: Strategic reframes and high-ticket positioning
+No corporate tone that sounds like a LinkedIn influencer having an existential crisis.
 
-### **9 Psychological Triggers**
-Applied throughout all agents:
-1. **Curiosity** - Creates knowledge gap
-2. **Specificity** - Numbers, details, examples
-3. **Identity** - "You are..." positioning
-4. **Contrast** - This vs That comparison
-5. **Relevance** - Direct to audience's situation
-6. **Scarcity** - Limited availability or uniqueness
-7. **Authority** - Expert positioning and proof
-8. **Emotion** - Feeling-based language
-9. **Pattern Interrupt** - Unexpected reframes
+Psychological triggers embedded and calibrated by intensity.
 
----
+Natural conversational tone.
 
-## 📚 How to Use Each Agent
+3 to 5 meaningful variations that use different persuasion frameworks.
 
-### **Starting Out**
-1. Copy all 8 agents from `agents/` folder into your Agent Girl's `server/agents.ts`
-2. Run `copy-orchestrator` to route your copywriting task to the right specialist
-3. Let the orchestrator choose which agents to use
+Self evaluated against quality gates before human review.
 
-### **For Specific Tasks**
+If it doesn't pass the authenticity test, it doesn't ship.
 
-**Need a headline that stops scrolling?**
-→ Use `copy-headlines` (applies 9 psychological triggers)
 
-**Want to understand your audience deeply?**
-→ Use `copy-persona` (builds psychographic profiles)
+## The Feedback Loop (How This Gets Better)
 
-**Creating social media content?**
-→ Use `copy-social` (4 master copywriter styles with quality gates)
+Agents generate copy and self evaluate against checklists.
 
-**Writing TikTok/Reels scripts?**
-→ Use `copy-video` (3-second hooks with visual timelines)
+You review and score the variations.
 
-**Checking copy quality?**
-→ Use `copy-review` (7-point quality evaluation)
+Feedback gets stored in `/copy-outputs/[brief-id]/feedback/`.
 
-**Need research with source validation?**
-→ Use `copy-research` (0-100 reliability scoring)
+Agents reference feedback patterns for future briefs.
 
-**Want to study copywriting techniques?**
-→ Use `copy-analysis` (extract patterns from masters)
+Full version history in Git means rollback is always available.
 
----
+The system learns.
 
-## ⚙️ Installation Overview
+The quality improves.
 
-The full installation takes approximately **1-2 hours** and involves:
+The copy gets sharper.
 
-1. **Backup Creation** (15 minutes)
-   - Local file backup
-   - GitHub branch backup
-   - Separate backup repository
 
-2. **Agent Integration** (30 minutes)
-   - Add agents to AGENT_REGISTRY
-   - Register each agent's tools
-   - Test individual agents
+## Credits And Community
 
-3. **Knowledge Base Addition** (15 minutes)
-   - Copy psychological frameworks
-   - Add quality checklists
-   - Include copywriter techniques
+Built as a contribution to Agent Girl by Ken Kai.
 
-4. **Testing & Validation** (30 minutes)
-   - Test each agent individually
-   - Test orchestrator routing
-   - Validate quality gates
-   - Compare pre/post quality
+Agent Girl makes building AI agents simple, transparent, and effective.
 
-5. **Rollback Preparation** (10 minutes)
-   - Document rollback commands
-   - Test recovery procedure
-   - Archive backup locations
+This copywriting system is our way of giving back.
 
-**See `INSTALLATION.md` for complete step-by-step guide.**
+Use it.
+
+Fork it.
+
+Improve it.
+
+Share what works.
+
+Let's build tools that actually help people instead of adding to the pile of AI slop that's terrorizing the internet.
+
+
+## Final Word
+
+This isn't a product.
+
+It's a tool.
+
+It's open source because we believe the best systems get built when people collaborate instead of gatekeep.
+
+It's modular because we know you'll want to customize it for your specific needs.
+
+It's versioned in Git because we're not savages who lose work when things break.
+
+Clone it.
+
+Test it.
+
+Break it.
+
+Fix it.
+
+Make it better.
+
+Then share what you learned so the next person doesn't have to start from scratch.
+
+That's how we win.
+
+Not by hoarding techniques.
+
+Not by charging $997 for a course that could have been a Google Doc.
+
+But by building tools that solve real problems and sharing them with people who will actually use them.
+
+Let's go.
+
 
 ---
 
-## 🛡️ Safety & Backup Strategy
+**Status**: All 8 agents built. Knowledge base complete. Phase 4 testing ready.
 
-This approach is inspired by **Ken Kai's wisdom on safe modifications** (Minimal Claude author):
+**License**: MIT. Do whatever you want with it. Just don't be a jerk.
 
-> *"Modify from the terminal, never from the UI. The terminal is your safety zone."*
+**Community**: Open issues, submit PRs, share results. Let's make this better together.
 
-### **Triple Backup Strategy:**
+**Built With**: Agent Girl framework by Ken Kai. Claude Sonnet 4.5. Master copywriter techniques from Sabri Suby, Dan Kennedy, Gary Halbert, Chief Neefe.
 
-1. **Local File Backup**
-   ```bash
-   cp -r ~/agent-girl ~/agent-girl.backup.$(date +%Y%m%d-%H%M%S)
-   ```
-
-2. **GitHub Branch Backup**
-   ```bash
-   git checkout -b backup/pre-agent-integration
-   git push origin backup/pre-agent-integration
-   ```
-
-3. **Separate Backup Repository**
-   - Create private repo specifically for backups
-   - Push entire Agent Girl folder before changes
-   - 30-second recovery if anything breaks
-
-**With all three backups in place, you have zero risk. If something goes wrong, recovery takes 30 seconds.**
-
----
-
-## 📋 Pre-Integration Checklist
-
-Before starting installation:
-
-- [ ] Read entire `INTEGRATION_STORY.md`
-- [ ] Review at least one agent file (e.g., `agents/copy-orchestrator.md`)
-- [ ] Review `TESTING_PROCEDURES.md`
-- [ ] Understand triple backup strategy
-- [ ] Have 1-2 hours of uninterrupted time
-- [ ] Access to your Agent Girl repository
-- [ ] Terminal access (you'll use Minimal Claude, not Agent Girl UI)
-- [ ] GitHub account with write access to your repo
-
----
-
-## 🎓 Learning Path
-
-**Complete Beginner?**
-1. Read: INTEGRATION_STORY.md (understand the journey)
-2. Read: INSTALLATION.md (high-level overview)
-3. Review: agents/copy-orchestrator.md (understand structure)
-4. Read: knowledge-base/psychological-frameworks.md (understand triggers)
-5. Review: examples/ (see real outputs)
-6. Follow: INSTALLATION.md (step-by-step)
-
-**Already Familiar with Agent Girl?**
-1. Skim: INTEGRATION_STORY.md
-2. Jump to: INSTALLATION.md
-3. Reference: agents/ as needed
-4. Use: knowledge-base/ for customization
-
-**Ready to Customize?**
-1. Review: CUSTOMIZATION_GUIDE.md
-2. Study: agents/ (understand patterns)
-3. Read: ADDING_NEW_AGENTS.md
-4. Create: Your custom agents following same pattern
-
----
-
-## 🤝 Credits & Attribution
-
-**Integration Approach**: Ken Kai (Minimal Claude author)
-- Terminal-based modification safety philosophy
-- Backup strategy and rollback procedures
-- Safe integration pattern validation
-
-**Copywriting Frameworks**:
-- Chief Neefe (Contrast positioning)
-- Gary Halbert (Story and specificity)
-- Dan Kennedy (Authority and numbers)
-- Sabri Suby (Strategic reframing)
-
-**Community Support**: Skool Community
-- Real-world testing feedback
-- Integration validation
-- Customization insights
-
----
-
-## 📊 Quality & Stats
-
-**Agent Quality Metrics:**
-- Pre-integration quality: 9.1+/10
-- Post-integration quality: 9.1+/10 (maintained)
-- Quality gates: 7-point evaluation framework
-- Real-world examples: 5+ per agent type
-
-**Technical Specs:**
-- TypeScript agent definitions
-- ~350 lines of code per agent integration
-- Complete AGENT_REGISTRY pattern
-- All tools and prompts included
-
-**Time Investment:**
-- Learning: 1-2 hours (read + review)
-- Installation: 1-2 hours (setup + testing)
-- Customization: Variable (optional)
-- **Total to production: 2-4 hours**
-
----
-
-## ❓ FAQ
-
-**Q: Do I need to be a developer?**
-A: Basic comfort with terminal commands helps, but no. Follow instructions exactly, use backups.
-
-**Q: Can I integrate just one agent at first?**
-A: Yes! Start with copy-orchestrator, test thoroughly, then add others.
-
-**Q: What if something breaks?**
-A: You have 30-second rollback. Restore from triple backup in 2 commands.
-
-**Q: Can I customize the agents?**
-A: Absolutely! See CUSTOMIZATION_GUIDE.md for patterns and best practices.
-
-**Q: How do I add new agents?**
-A: See ADDING_NEW_AGENTS.md for complete pattern. Reuse same structure.
-
-**Q: Will this interfere with existing Agent Girl functionality?**
-A: No. Agents are additive. Existing agents and features unaffected.
-
-**Q: How long before I see results?**
-A: Immediately. After integration, agents available in Agent Girl right away.
-
-**Q: Can the community improve these agents?**
-A: Yes! See CONTRIBUTING.md. Improvements and variations welcome.
-
----
-
-## 🚀 Next Steps
-
-1. **Start Here**: Open `INTEGRATION_STORY.md`
-2. **Then Read**: `INSTALLATION.md`
-3. **Before Installing**: Review `TESTING_PROCEDURES.md`
-4. **During Installation**: Follow step-by-step in `INSTALLATION.md`
-5. **After Installation**: Run tests from `TESTING_PROCEDURES.md`
-
----
-
-## 📞 Support
-
-**Integration Help:**
-- Check `INSTALLATION.md` for step-by-step guide
-- Review `TROUBLESHOOTING.md` for common issues
-- See `ROLLBACK_PROCEDURES.md` if you need to recover
-
-**Technical Questions:**
-- Review `INTEGRATION_STORY.md` for technical context
-- Check `agents/` for agent definitions
-- See `knowledge-base/` for frameworks and principles
-
-**Customization Help:**
-- Start with `CUSTOMIZATION_GUIDE.md`
-- Review agent examples in `agents/`
-- See `ADDING_NEW_AGENTS.md` for patterns
-
-**Community Support:**
-- Ask in Skool community channel
-- Share improvements via pull requests
-- Contribute new agents or techniques
-
----
-
-## 📄 License
-
-This integration kit is free for the Skool community.
-
-- Use as-is for your integrations
-- Customize for your needs
-- Share improvements back
-- Build on top of this foundation
-- Credit original authors
-
----
-
-## 🎯 The Goal
-
-**Help you safely, confidently integrate 8 production-ready copywriting agents into your Agent Girl installation—and maintain the quality that makes them work.**
-
-You're not just getting agents. You're getting:
-- A proven integration pattern
-- Real master copywriter techniques
-- Quality gates that ensure excellent outputs
-- Zero-risk installation procedure
-- Complete knowledge base to customize
-
-Let's build better agents together! 🚀
-
----
-
-**Last Updated**: November 2025
-**Quality Score**: 9.1+/10
-**Status**: Production Ready
+**Questions?**: Open an issue. Someone will answer. Probably.
