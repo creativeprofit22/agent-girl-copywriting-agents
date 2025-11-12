@@ -24,10 +24,28 @@ cd ~/path/to/agent-girl
 minimal server/agents.ts
 ```
 
-Or use VS Code's built-in editor:
+**Important:** Minimal Claude will open a chat interface and ask you questions about what you're trying to do. Be specific:
+
+- "I'm adding copywriting agents to AGENT_REGISTRY"
+- "I have agent prompts from GitHub that need to be added"
+- "I want to add the copy-commander agent first"
+
+Minimal Claude will use these answers to help you do it better. Just answer naturally - it's there to assist.
+
+Or use VS Code's built-in editor directly:
 ```bash
 code server/agents.ts
 ```
+
+**What to Expect:**
+When you run `minimal server/agents.ts`, Claude will:
+- Ask what you're working on
+- Ask which agent you want to add
+- Ask where the prompts are located
+- Offer to help you format and add the code correctly
+- Guide you through the process step-by-step
+
+Just let it know you're adding copywriting agents and it will handle the details. You're not alone in this - Claude is helping!
 
 ### Step 3: Locate AGENT_REGISTRY
 
@@ -70,11 +88,26 @@ Add remaining agents (copy-social, copy-research, etc.) one at a time, testing e
 ## That's It!
 
 No complex procedures. No multiple phases. Just:
-1. Open file
-2. Add agent prompt
-3. Save
-4. Restart
-5. Test
+1. Open file with Minimal Claude (it asks questions to help)
+2. Answer Claude's questions about what you're doing
+3. Let Claude guide you through adding the agent
+4. Save & restart
+5. Test in Agent Girl UI
+
+---
+
+## The Magic: Minimal Claude Asks Questions
+
+The beauty of this approach is that **Minimal Claude isn't just a dumb editor** - it's an AI that understands what you're doing:
+
+✅ You say: "I want to add the copy-social agent"
+✅ Claude asks: "Do you have the prompt file? Should I help format it?"
+✅ You say: "It's in agents/copy-writers/social/prompt.md"
+✅ Claude: "I'll help you add it correctly to AGENT_REGISTRY"
+
+**It's a conversation, not a manual process.** Claude does the heavy lifting.
+
+---
 
 If something breaks, Agent Girl restarts fine. Just fix the syntax and try again.
 
@@ -82,4 +115,5 @@ If something breaks, Agent Girl restarts fine. Just fix the syntax and try again
 
 **Status**: Production Ready
 **Time**: 1-2 hours for all 14 agents
-**Difficulty**: Easy
+**Difficulty**: Easy (Claude handles most of it)
+**Experience**: Interactive (Minimal Claude asks questions to help you)
